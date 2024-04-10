@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lejamon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### My stats ⭐
+
+<div align="center">
+<img alt="Thomas's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lejamon&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lejamon&layout=compact&&langs_count=8"/>
+</div>
 <!--
 **LeJamon/lejamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
